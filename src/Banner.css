@@ -1,0 +1,41 @@
+.banner {
+  background: url("https://media.cntraveler.com/photos/5de7dbee45a09000087e427f/16:9/w_2240,h_1260,c_limit/airbnb-9232684-los-angeles.jpg");
+  min-height: 60vh;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  /* overflow: hidden; */
+}
+.banner-search {
+  display: flex;
+  flex-direction: column;
+}
+.banner-searchButton {
+  color: #ff7779 !important;
+  text-transform: inherit;
+  font-weight: 900 !important;
+  background-color: #fff !important;
+}
+.banner-info {
+  background-color: black;
+  color: #fff;
+  padding: 25vh 50px 40px;
+  width: 300px;
+}
+.banner-info h5 {
+  margin-top: 10px;
+}
+.banner-info button {
+  background-color: #ff7779;
+  color: #fff;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: bold;
+  transition: all 0.5s;
+}
+.banner-info button:hover {
+  background-color: #fff;
+  color: #ff7779;
+}
