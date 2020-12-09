@@ -5,6 +5,7 @@
   width: 50vw;
   padding-bottom: 30px;
   background-color: #fff;
+  z-index: 1000;
 }
 
 .search > h2 {
@@ -16,7 +17,7 @@
   background-color: white;
   position: absolute;
   left: 0;
-  top: 380px;
+  top: 375px;
 }
 
 .search > input {

@@ -25,12 +25,12 @@
 }
 .card-info h2 {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: bold;
   margin: 10px 0;
 }
 .card-info h4 {
   font-size: 14px;
-  font-weight: 300;
+  font-weight: normal;
   margin-top: 8px;
   margin-bottom: 8px;
 }

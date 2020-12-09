@@ -6,7 +6,6 @@
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  /* overflow: hidden; */
 }
 .banner-search {
   display: flex;
@@ -30,7 +29,7 @@
 .banner-info button {
   background-color: #ff7779;
   color: #fff;
-  text-transform: inherit;
+  text-transform: initial;
   margin-top: 20px;
   font-weight: bold;
   transition: all 0.5s;
